@@ -29,7 +29,7 @@ const tamzid = {
   challenge: "I am currently building full-stack MERN projects to grow my portfolio.",
   askMeAbout: ["MERN Stack", "Clean Code", "Scalable Web Apps"]
 };
-
+```
 ---
 
 ### 💻 Tech Stack
