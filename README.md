@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tamzid%20Molla&fontSize=60&fontColor=00D4FF&animation=fadeIn&fontAlignY=40](https://github.com/tamzid-molla/tamzid-molla/blob/main/banner%20Image.png)" alt="Header Banner"/>
+  <img src="https://github.com/tamzid-molla/tamzid-molla/blob/main/banner%20Image.png" alt="Header Banner"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Tamzid Molla</h1>
