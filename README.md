@@ -94,7 +94,7 @@ const tamzid = {
 ### 🌐 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=tamzid-molla.tamzid-molla" alt="Visitor Count" />
+  <img src="https://visit-counter.vercel.app/counter.png?username=tamzid-molla&theme=dracula" alt="Visitor Count" />
 </p>
 
 <div align="center">
