@@ -64,9 +64,6 @@ const tamzid = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=tamzid-molla&theme=dracula&background=1A1A1A&ring=00D4FF&fire=00D4FF&currStreakLabel=E0E0E0" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzid-molla&layout=compact&theme=dracula&bg_color=1A1A1A&text_color=E0E0E0" alt="Top Languages" />
 </p>
 
@@ -79,7 +76,7 @@ const tamzid = {
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/monhara.pakhi.549668" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" />
 </a>
   <a href="https://linkedin.com/in/tamzid-molla" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -96,7 +93,9 @@ const tamzid = {
 
 ### 🌐 Visitor Count
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=tamzid-molla.tamzid-molla)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tamzid-molla.tamzid-molla" alt="Visitor Count" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontColor=00D4FF" alt="Footer Banner"/>
