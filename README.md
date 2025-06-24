@@ -11,6 +11,9 @@
 
 ---
 
+### 🧠 A little more about me...
+
+```js
 const tamzid = {
   pronouns: "he" | "him",
   stack: {
