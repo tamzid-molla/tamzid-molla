@@ -56,31 +56,6 @@ const tamzid = {
 
 ---
 
-### 📂 Featured Projects
-
-1. **BookBazaar**  
-   - **Description**: A full-stack book review platform built with MERN stack. Users can review, rate, and track books.  
-   - **Tech**: React, Node.js, Express, MongoDB, Tailwind CSS.  
-   - **GitHub**: [tamzid-molla/bookbazaar](https://github.com/tamzid-molla/bookbazaar)  
-   - **Live Demo**: [https://bookbazaar-demo.vercel.app](https://bookbazaar-demo.vercel.app)  
-   - <img src="https://via.placeholder.com/300x150.png?text=BookBazaar+Screenshot" alt="BookBazaar Screenshot" width="200"/>
-
-2. **ParcelPilot**  
-   - **Description**: A courier management dashboard for tracking and managing parcels region-wise.  
-   - **Tech**: React, Node.js, Express, MongoDB.  
-   - **GitHub**: [tamzid-molla/parcelpilot](https://github.com/tamzid-molla/parcelpilot)  
-   - **Live Demo**: [https://parcelpilot-demo.vercel.app](https://parcelpilot-demo.vercel.app)  
-   - <img src="https://via.placeholder.com/300x150.png?text=ParcelPilot+Screenshot" alt="ParcelPilot Screenshot" width="200"/>
-
-3. **DevConnect**  
-   - **Description**: A mini social platform for developers to connect and share projects.  
-   - **Tech**: React, Node.js, Express, MongoDB.  
-   - **GitHub**: [tamzid-molla/devconnect](https://github.com/tamzid-molla/devconnect)  
-   - **Live Demo**: [https://devconnect-demo.vercel.app](https://devconnect-demo.vercel.app)  
-   - <img src="https://via.placeholder.com/300x150.png?text=DevConnect+Screenshot" alt="DevConnect Screenshot" width="200"/>
-
----
-
 
 ### 📊 GitHub Stats
 
@@ -101,10 +76,21 @@ const tamzid = {
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://tamzidmolla.dev"><img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" /></a>
-  <a href="mailto:tamzid.dev@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tamzid-molla"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/tamzid_codes"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="mailto:tamzidmolla.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/monhara.pakhi.549668" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  </a>
+  <a href="https://linkedin.com/in/tamzid-molla" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/tamzid_codes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  <a href="https://tamzidmolla.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" />
+  </a>
 </p>
 
 ---
