@@ -11,14 +11,21 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 **Currently working on**: Full-stack MERN projects to enhance my portfolio.
-- 🎓 **Education**: Pursuing Honors 2nd Year in [Your Major, e.g., Computer Science].
-- 🌱 **Learning**: Advanced React hooks, MongoDB optimization, and TypeScript.
-- 💬 **Ask me about**: MERN Stack, clean code practices, or building scalable web apps.
-- 📍 **Location**: Jhenaidah, Dhaka, Bangladesh.
-- ⚡ **Fun Fact**: I love debugging code while sipping tea! ☕
+const tamzid = {
+  pronouns: "he" | "him",
+  stack: {
+    frontend: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    currentlyLearning: ["Advanced React Hooks", "MongoDB Optimization"]
+  },
+  tools: ["VS Code", "Git", "GitHub", "Postman", "Vercel", "Netlify"],
+  education: "Pursuing Honors 2nd Year in Computer Science",
+  location: "Jhenaidah, Bangladesh",
+  funFact: "I love debugging code while sipping tea! ☕",
+  challenge: "I am currently building full-stack MERN projects to grow my portfolio.",
+  askMeAbout: ["MERN Stack", "Clean Code", "Scalable Web Apps"]
+};
 
 ---
 
@@ -41,7 +48,7 @@
 
 #### 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" alt="Tools" />
 </p>
 
 ---
@@ -71,17 +78,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 Completed [Certification Name, e.g., MongoDB Developer Certification] in 2024.
-- 🌟 Contributed to [Open-Source Project Name] on GitHub.
-- 💻 Participated in Hacktoberfest 2024, contributing to 5+ repositories.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamzid-molla&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
